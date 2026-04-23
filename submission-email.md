@@ -28,8 +28,8 @@ make test     # 5/5 tests passing
 make trace    # session + full audit trail
 ```
 
-Repo: [link]
+Repo: https://github.com/dhritigarg04/daily-reflection-tree
 
 Happy to walk through any design trade-off — the branching architecture, the depth modifier layer, the failure modes, or what I'd build next.
 
-— [Your name]
+— Dhriti Garg
